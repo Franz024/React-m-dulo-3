@@ -1,0 +1,9 @@
+body{
+  background: linear-gradient(lightblue,black,white);
+}
+
+h1{
+  color: aquamarine;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
