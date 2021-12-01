@@ -1,0 +1,26 @@
+body{
+background-image: url(http://carve850.com.uy/wp-content/uploads/2021/09/Deportes-23-09-2021.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-size: cover;
+}
+
+
+h1{
+  color: yellowgreen;
+  font-size: 45px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+img{
+  border:solid dodgerblue;
+}
+
+button{
+  background:linear-gradient(black,yellow,black);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: black;
+}
+
